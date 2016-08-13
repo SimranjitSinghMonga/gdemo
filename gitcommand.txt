@@ -1,0 +1,4 @@
+https://github.com/SimranjitSinghMonga/Example.git
+
+git remote add origin https://github.com/SimranjitSinghMonga/Example.git
+git push -u origin master
